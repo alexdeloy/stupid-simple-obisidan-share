@@ -19,10 +19,11 @@ No Docker, no NPM, no build process, no bullshit.
 
 ## Installation
 
-1) Copy the contents of the `server` folder in a directory on your webserver
-2) Copy the `plugin` folder in your `.obsidian/plugins` folder and rename it to `stupid-simple-obisidan-share`
-3) In Obsidan press the new _share_ button in the sidebar
-4) The plugin sends the content of the current file to the server and a link to the generated HTML is pasted in your clipboard
+1) Copy the `plugin` folder in your `.obsidian/plugins` folder and rename it to `stupid-simple-obisidan-share`. Then enable the plugin in Obsidian.
+2) Copy the contents of the `server` folder in a directory on your webserver
+3) Enter your URL from the previous step in the settings field of the plugin
+4) In Obsidan press the new _share_ button in the sidebar
+5) The plugin sends the content of the current file to the server and a link to the generated HTML is pasted in your clipboard
 
 ## Todos
 
