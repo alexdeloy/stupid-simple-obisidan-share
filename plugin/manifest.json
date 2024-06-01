@@ -1,0 +1,10 @@
+{
+    "id": "stupid-simple-obisidan-share",
+    "name": "Stupid Simple Obsidian Share",
+    "version": "0.5",
+    "minAppVersion": "0.15.0",
+    "description": "Self-hosted backend + plugin to convert Obsidian pages to HTML and share them.",
+    "author": "Alexander Psiuk",
+    "authorUrl": "https://github.com/alexdeloy/stupid-simple-obisidan-share",
+    "isDesktopOnly": false
+}
